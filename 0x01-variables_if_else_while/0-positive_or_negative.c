@@ -2,7 +2,11 @@
 #include <time.h>
 /* more headers goes there */
 #include <stdio.h>
-/* betty style doc for function main goes there */
+/**
+ *main -is the entry point for the program.
+ *
+ *Return:zero if no error, Non-zero value  if errors.
+ */
 int main(void)
 {
 	int n;
@@ -17,7 +21,7 @@ int main(void)
 	{
 		if (n == 0)
 		{
-			printf("%d is zero \n", n);
+			printf("%d is zero\n", n);
 		}
 		else
 		{
