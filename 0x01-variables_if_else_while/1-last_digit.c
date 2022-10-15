@@ -4,9 +4,11 @@
 /**
  * main- Serves as the entry point for the program
  *
- * This program will assign a random number to the variable n each time it is executed.
+ * This program will assign a random number
  *
- * Return: By default returns zero if no erros otherwise returns non-zero value.
+ * to the variable n each time it is executed.
+ *
+ *Return: By default returns zero if no erros otherwise returns non-zero value.
  */
 int main(void)
 {
