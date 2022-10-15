@@ -8,11 +8,9 @@
 int main(void)
 {
 	char big;
-	
-	char small = tolower(big);
 
-	for (big = 'A'; big <= 'Z'; big++)
-		putchar(small);
+	for (big = 'a'; big <= 'z'; big++)
+		putchar(big);
 	for (big = 'A'; big <= 'Z'; big++)
 		putchar(big);
 	
