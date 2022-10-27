@@ -1,10 +1,10 @@
 #include "main.h"
 /**
- *  * string_toupper - chrcase
- *   * @s: input string.
+ * string_toupper - chrcase
+ *@s: input string.
  *    *
- *     * Return: the pointanges all lowercase letters of a string
- *      * to uppeer to dest.
+ *Return: the pointanges all lowercase letters of a string
+ * to uppeer to dest.
  */
 char *string_toupper(char *s)
 {
